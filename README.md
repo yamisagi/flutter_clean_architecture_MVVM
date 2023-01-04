@@ -62,6 +62,8 @@ In this repository, I will use Clean Architecture Design Pattern with MVVM - Mod
 
 
   - [x] Project Setup
+  - [x] Create Layer Folders
+  - [x] Create Presentation Layer
 
 
 
